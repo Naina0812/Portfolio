@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Study-Notion",
+    "imageSrc": "projects/Study-Notion.png",
+    "description": "This is a project based on Ed-Tech platform",
+    "skills": ["React", "Express", "Node", "Mongodb"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Naina0812/StudyNotion"
+  },
+  {
+    "title": "Movix web",
+    "imageSrc": "projects/movix.png",
+    "description": "Movix is a React-based web application that leverages API calls to provide users with real-time movie information and seamless browsing experiences.",
+    "skills": ["React","Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Naina0812/Movix_web"
+  }
+]
